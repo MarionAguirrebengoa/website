@@ -31,7 +31,7 @@ Des pancartes *R Toulouse* seront idéalement placées pour vous guider.
 
 ## Programme
 
-**Validation de donénes avec [{pointblank}](https://cran.r-project.org/package=pointblank)**,
+**Validation de données avec [{pointblank}](https://cran.r-project.org/package=pointblank)**,
 par [Christophe Regouby](https://github.com/cregouby) (Airbus).
 
 Plus j'utilise ce package, et plus je deviens célèbre et admiré par
